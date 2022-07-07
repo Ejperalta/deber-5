@@ -258,6 +258,8 @@ B = 3000 µ Wb/ m^2 = 3000µT
 
 4. Video
 
+https://youtu.be/iKaOs6ziTTg
+
 5. Concluciones
 
 para la resolucion de algunos ejercicios es importante tener en cuenta todos los metodos que hay ya sea por resolucion de nodos como por las ramas ademas estos metodos ayudan a tener una mejor comprencion al cicuito
